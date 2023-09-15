@@ -1,0 +1,19 @@
+.bicycle-list {
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-between; */
+  }
+  
+
+  .ml{
+    margin-left: 1.33%;
+  }
+.main-heading {
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    /* Add more styles as needed */
+  }
